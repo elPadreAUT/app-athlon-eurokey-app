@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EuroKey</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="liste">List of nearest Toilets</string>
+    <string name="go">Start navigation</string>
+</resources>

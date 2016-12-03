@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_fe672107bd00c8bdf8d19a407cba8afd518e7ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_8b2120a895611230af4207624098154aef09b4c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_f24a830145e2186912d83fcd0c51dea1772be384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_9e0b7e0fb7293af3a021c95c832b1d5896beba89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_42e009a3316e8e8587c2ee18c884216617b81cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_e0559a70e04d100cab4f4a55f5d31661a04706ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_f27d7dd8fe2596ec8b6a3ee8fe4c1705fd454243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_79c2f425cbb4a0ca15f4a0fd98f227d418c8e8c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_1f991fc3ba1d6db5b2052d6408427b62d46ffe96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ce4f6b6f6ae9b67ee913d3b19c47ed8c2671d8f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_ca591afb68f8b9468c8ff87ddbef3ece6b4cf1e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_409258cc4c7028867c3898012fed9130d1d4da32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_4223597ad375ac93ab4750548d5834439cae7e3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b86f3f39c282e05cef9cbacbd172f1fcb14fd174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_646f08cc98375d44227a9bdb0711e20b4906e899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_3b211648c2d709dea5bb48f2649cd489cfb126f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_40b7fd695346f17d5756e1d4db711b77d5e12399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_31e35b4f51f793cae082b9a2f55bf330887b792c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_276787e285df021c22b58cba7013e095080d93c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0d670c4741d97f1198a03a3c1df0c944be6b1ca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_5dc0055366d332e5dff87eeea74f772a4eacfea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_708606b7649f4d637b9b63712df8412980144d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_e46446ecd8640b854926d933bd39e3e549e7a1d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_f74133f8729afa68fe9d3688419fb891e3c0f880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_fa96c146690bce8d44f3f8c1e832576556b6d1a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_503cf96df43e8352575a8a6aee8518b69bf08056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_dd01c2ce1e20c07c8b509977e94e8cdc032916c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_e08aba17e55e0ed31b2b2737afba65e64fcdde7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_d29f79f3b4355cd2d9ede9722d63618ba97609bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_76405d6f0b0cfddcb85b2e6c6d2f71b5e492761d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_0e4aa678c31b6b13713b4d2738abc0090e6ee13e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9460455cc8fc87510714da706130ba677129d58a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c6cc21a2d79499be4265bb058d90ee7d6acb7cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_04d90b61e013fe8bf887bd111f8cf28014d1b9bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_89bc121fea45324d3126e8291ebb561d5b7a4bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_06cfd697b03a066ce861913ed7d100e4b2cec36b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c3cf95fd246ae3a8c9a6de3bd123ea1076962197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_cbcb2b56722d29769edd2706413f72ddd7e65176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a3aa9a5103e1fe01078c8173bcc098e71a8aef40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e44f175e7fb0798d30dda4392719721b87e03543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_a4f0ac90b75d24c7c6ebeaf44227cc1935681a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_0e8696cc6417d681fa37be5d3747253788042247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_2f1436a9470555e69e5bf9ac07c0e5a9decf76fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_7095d26ce2371bd24515a24097245bb09c2f74bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aed8acc3b3e1adbf1c3188961a6f175b621ab951">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d697c7c2c43254812cf520ad5cf977542f6a524d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_6d92106a6c145717e3ea34b86b410a2b18fdd976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_d8a1fb8767f9ce9a7f096d49ccf11fd8d8888727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_7f06c54e08282bd674a4cbb3168a6f84e6f3f950/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_e432afc17dd0f359be8085a5aec2929a0738be90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6ed22f67b5ed5808018f02891275b005f322c84b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1066389a2acf4c088f8ac03fe439c739eaf318b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1d41b2bcf41bb0bb07f61a288eddaafce0334698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="431667fb64d2598012c304ad2cfb4cde019296b3">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0002d2f57279b2fa96a6b9707db6e3db27218c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_a479d087241e1054c83f69a6d21921cc65a8c237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_5cb0adfaf1653c78eb04038b6e6e0479b3671d80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_80bf3cd6b7151c55a863d673efc143953eab3b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_1051cc6a2b2f670d6f8bc06670b56f5eaeb262de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_e38ff3ea268e6d3fdac8947a80f883e4d02ccc28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_66bad824efb47a09af5090c5f30d71de53c695a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f8d6602f45feb85759e4c44c2b27de0742a94743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_b84620188667156f243d5c2eb146fbb7762b15d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_64cfbfd45fcbee47217eb495da6c06ccdb85e40a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2b6592926005bd0cec72b914084e975de178fd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_e8217f97e3ee9f560642eeb92859f0efd526ac1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_05d5f58207dfe7d65a4c89e3130d1e2a65648b51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_81ee2c34be143856367c96c5a535956afaf5678d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_48641f9f1d38e67bd4c0a32fcd91b0f3fb8fc05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/bernhardkober/Documents/app-athlon/EuroKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_8dd64807bd5d2077e7ed4c5e317363b63b6c8e36/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8C:1E:47:A6:8D:9B:BB:43:8D:05:E7:48:09:E2:98:33:4F:D5:2C:99%3Bat.app_athlon.eurokey
+
+    You can also add your credentials to an existing key, using this line:
+    8C:1E:47:A6:8D:9B:BB:43:8D:05:E7:48:09:E2:98:33:4F:D5:2C:99;at.app_athlon.eurokey
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBAcN6oN-VrMXOsmuWotsMhcDiSK-yQKPw
+    </string>
+</resources>
